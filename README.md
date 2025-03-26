@@ -98,11 +98,15 @@ Understanding layoffs trends is crucial for businesses and job seekers. This ana
 - 🛢 **MySQL Workbench** for SQL queries and data analysis.
 - 📂 **Kaggle** for dataset sourcing.
 
-## 📚 What I Learned
-- How to use **aggregate functions** (SUM, MAX) to summarize data.
-- Leveraged **window functions** (DENSE_RANK, SUM OVER) for ranking and cumulative totals.
-- Identified trends and insights by filtering and grouping data effectively.
-- The importance of data-driven insights for job market trends.
+## 📚 Lessons Learned
+✔ **Data Challenges**:
+- Handling self-reported data inconsistencies
+- Dealing with partial reporting (many NULL % values)
+
+✔ **Technical Skills Improved**:
+- Complex window functions for running totals
+- Advanced date manipulation in SQL
+- Data storytelling techniques
 
 ## 🔍 Conclusion
 This analysis highlights key trends in layoffs across companies, industries, and countries. The data reveals how economic downturns, funding, and industry shifts impact workforce stability.
