@@ -50,13 +50,14 @@ Understanding layoffs trends is crucial for businesses and job seekers. This ana
 #### 🏭 Industries Most Affected
 ![Layoffs by Industry](industry.png)
 - Aggregated layoffs by industry.
-- Tech-related industries were heavily impacted.
+- Consumer-related industries were heavily impacted.
 
 #### 🌎 Countries with the Highest Layoffs
 - Summed layoffs by country.
 - **United States** saw the most job cuts.
 
 #### 📆 Hardest Year for Layoffs
+![Top Companies by Layoffs](years.png)
 - 2022 recorded the highest layoffs, showing a major economic downturn.
 
 #### 📈 Monthly Rolling Layoff Totals
