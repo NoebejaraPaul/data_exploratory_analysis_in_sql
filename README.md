@@ -48,6 +48,7 @@ Understanding layoffs trends is crucial for businesses and job seekers. This ana
 - **Amazon** recorded the highest total layoffs.
 
 #### 🏭 Industries Most Affected
+![Layoffs by Industry](industry.png)
 - Aggregated layoffs by industry.
 - Tech-related industries were heavily impacted.
 
