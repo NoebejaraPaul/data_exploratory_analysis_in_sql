@@ -68,6 +68,32 @@ Understanding layoffs trends is crucial for businesses and job seekers. This ana
 - Ranked companies based on yearly layoffs.
 - Used **DENSE_RANK()** to determine top 5 most affected companies per year.
 
+| Year | Rank | Company     | Total Laid Off |
+|------|------|-------------|----------------|
+| 2020 | 1    | Uber        | 7,525          |
+|      | 2    | Booking.com | 4,375          |
+|      | 3    | Groupon     | 2,800          |
+|      | 4    | Swiggy      | 2,250          |
+|      | 5    | Airbnb      | 1,900          |
+| 2021 | 1    | Bytedance   | 3,600          |
+|      | 2    | Katerra     | 2,434          |
+|      | 3    | Zillow      | 2,000          |
+|      | 4    | Instacart   | 1,877          |
+|      | 5    | WhiteHat Jr | 1,800          |
+| 2022 | 1    | Meta        | 11,000         |
+|      | 2    | Amazon      | 10,150         |
+|      | 3    | Cisco       | 4,100          |
+|      | 4    | Peloton     | 4,084          |
+|      | 5    | Carvana     | 4,000          |
+|      | 5    | Philips     | 4,000          |
+| 2023 | 1    | Google      | 12,000         |
+|      | 2    | Microsoft   | 10,000         |
+|      | 3    | Ericsson    | 8,500          |
+|      | 4    | Amazon      | 8,000          |
+|      | 4    | Salesforce  | 8,000          |
+|      | 5    | Dell        | 6,650          |
+
+
 ## ⚙️ Tools Used
 - 🛢 **MySQL Workbench** for SQL queries and data analysis.
 - 📂 **Kaggle** for dataset sourcing.
