@@ -43,7 +43,7 @@ Understanding layoffs trends is crucial for businesses and job seekers. This ana
 - Data spans from **March 22, 2020**, to **March 6, 2023**.
 - 
 #### 🏢 Companies with the Highest Total Layoffs
-![Top Companies by Layoffs]()
+![Top Companies by Layoffs](company.png)
 - Summed total layoffs per company.
 - **Amazon** recorded the highest total layoffs.
 
