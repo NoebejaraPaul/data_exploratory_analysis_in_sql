@@ -7,8 +7,6 @@
 ## 🚀 Introduction
 This project focuses on analyzing global layoffs from major companies between 2020 and 2023. Using SQL, I uncovered key trends, industries affected, and companies with significant layoffs.
 
-🔍 Check out the SQL queries used in this project: [SQL EDA Scripts]()
-
 ## 🕵️ Background
 Understanding layoffs trends is crucial for businesses and job seekers. This analysis aims to explore:
 - Which industries were most affected
